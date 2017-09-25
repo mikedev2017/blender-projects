@@ -1,5 +1,5 @@
 This project was created with Blender. You can download Blender from [Blender.org](https://www.blender.org/). 
-The `pyramid_projector_eggzample.blend` file included in this repo contains everything you need to create 
+The `pyramid_hologram_eggzample.blend` file included in this repo contains everything you need to create 
 a video for a pyramid hologram projector. You can find instructions for building a pyramid hologram 
 projector [here](http://www.instructables.com/id/No-CD-case-no-tape-3D-hologram-pyramid-the-quickes/).
 
