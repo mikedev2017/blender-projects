@@ -1,9 +1,10 @@
 This project was created with Blender. You can download Blender from [Blender.org](https://www.blender.org/). 
 The `pyramid_hologram_eggzample.blend` file included in this repo contains everything you need to create 
-a video for a pyramid hologram projector. You can find instructions for building a pyramid hologram 
-projector [here](http://www.instructables.com/id/No-CD-case-no-tape-3D-hologram-pyramid-the-quickes/).
-
-You can download the `egg-hologram.mp4` video included in this repo, if you just want to test the hologram.
+a video for a pyramid hologram projector, including a MP4 of the hologram. A looping GIF of the hologram is 
+included in this repo as well. You can create a looping GIF of your hologram using [GIMP](https://www.gimp.org/). 
+The GIF's GIMP source file (`eggzample-hologram-optimized-gif.xcf`) is also included. You can find instructions 
+for creating an omptimized looping GIF in GIMP [here](http://adaptivesamples.com/2015/08/06/making-an-optimized-gif-in-gimp/). 
+Instructions for building a pyramid hologram projector can be found [here](http://www.instructables.com/id/No-CD-case-no-tape-3D-hologram-pyramid-the-quickes/).
 
 To create your own hologram animation, follow the steps below:
 
