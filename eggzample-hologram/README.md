@@ -20,8 +20,8 @@ To create your own hologram animation, follow the steps below:
    settings Output section. By default, it is set to render to the `my-images` 
    folder in the repo.
    
-    **Note:** The eggzample holgram is 3 seconds (72 frames) long. For the best 
-	results and experience, make sure that each image sequence is 72 frames as well.
+    **Note:** The eggzample holgram is just over 6 seconds (146 frames) long. For the best 
+	results and experience, make sure that each image sequence is 146 frames as well.
 	This lets you quickly swap the existing image strips in the Video Sequence editor
 	for your new one.
 
